@@ -119,6 +119,8 @@ button:hover {
     margin-bottom: 50px;
     display: block;
     height: 900px;
+        box-shadow: none;
+
   }
   .grid .img {
     width: 100%;
